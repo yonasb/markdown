@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yonasb/markdown](https://github.com/yonasb/markdown)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|63<br/>Tools used|03/05/24 <br/>Report generated|
+|63<br/>Tools used|03/13/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -100,7 +100,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://reactjs.org/">React</a></sub>
   <br>
-  <sub></sub>
+  <sub>v16.14.0</sub>
 </td>
 
 <td align='center'>
@@ -108,7 +108,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://gaearon.github.io/react-hot-loader/">React Hot Loader</a></sub>
   <br>
-  <sub></sub>
+  <sub>v4.13.0</sub>
 </td>
 
 <td align='center'>
@@ -137,7 +137,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://babeljs.io/">Babel</a></sub>
   <br>
-  <sub></sub>
+  <sub>v7.19.3</sub>
 </td>
 
 <td align='center'>
@@ -145,7 +145,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://codemirror.net/">CodeMirror</a></sub>
   <br>
-  <sub></sub>
+  <sub>v5.54.0</sub>
 </td>
 
 <td align='center'>
@@ -185,7 +185,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://facebook.github.io/jest/">Jest</a></sub>
   <br>
-  <sub></sub>
+  <sub>v28.1.3</sub>
 </td>
 
 <td align='center'>
@@ -193,7 +193,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://prettier.io/">Prettier</a></sub>
   <br>
-  <sub></sub>
+  <sub>v2.7.1</sub>
 </td>
 
 </tr>
@@ -211,7 +211,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://stylelint.io/">Stylelint</a></sub>
   <br>
-  <sub></sub>
+  <sub>v14.16.1</sub>
 </td>
 
 <td align='center'>
@@ -219,7 +219,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://webpack.js.org">Webpack</a></sub>
   <br>
-  <sub></sub>
+  <sub>v5.74.0</sub>
 </td>
 
 <td align='center'>
@@ -240,7 +240,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://lodash.com">Lodash</a></sub>
   <br>
-  <sub></sub>
+  <sub>v4.17.21</sub>
 </td>
 
 <td align='center'>
@@ -277,46 +277,46 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@babel/core](https://www.npmjs.com/@babel/core)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[@babel/plugin-proposal-class-properties](https://www.npmjs.com/@babel/plugin-proposal-class-properties)|N/A|07/19/23|Kelly Joseph Price |MIT|N/A|
-|[@babel/plugin-proposal-object-rest-spread](https://www.npmjs.com/@babel/plugin-proposal-object-rest-spread)|N/A|07/21/23|Kelly Joseph Price |MIT|N/A|
-|[@babel/plugin-proposal-optional-chaining](https://www.npmjs.com/@babel/plugin-proposal-optional-chaining)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[@babel/plugin-transform-runtime](https://www.npmjs.com/@babel/plugin-transform-runtime)|N/A|07/11/23|Kelly Joseph Price |MIT|N/A|
-|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[@babel/preset-react](https://www.npmjs.com/@babel/preset-react)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[@commitlint/cli](https://www.npmjs.com/@commitlint/cli)|N/A|06/30/23|Daniels L |MIT|N/A|
-|[@commitlint/config-angular](https://www.npmjs.com/@commitlint/config-angular)|N/A|07/11/23|Kelly Joseph Price |MIT|N/A|
-|[@commitlint/config-conventional](https://www.npmjs.com/@commitlint/config-conventional)|N/A|07/19/23|Kelly Joseph Price |MIT|N/A|
-|[@hot-loader/react-dom](https://www.npmjs.com/@hot-loader/react-dom)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[@semantic-release/changelog](https://www.npmjs.com/@semantic-release/changelog)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[@semantic-release/git](https://www.npmjs.com/@semantic-release/git)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|N/A|07/11/23|Kelly Joseph Price |MIT|N/A|
-|[@testing-library/react](https://www.npmjs.com/@testing-library/react)|N/A|07/11/23|Kelly Joseph Price |MIT|N/A|
-|[babel-jest](https://www.npmjs.com/babel-jest)|N/A|07/11/23|Kelly Joseph Price |MIT|N/A|
-|[babel-loader](https://www.npmjs.com/babel-loader)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[core-js](https://www.npmjs.com/core-js)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[husky](https://www.npmjs.com/husky)|N/A|05/16/22|Kelly Joseph Price |MIT|N/A|
-|[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|N/A|07/19/23|Kelly Joseph Price |MIT|N/A|
-|[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|N/A|07/11/23|Kelly Joseph Price |MIT|N/A|
-|[jest-puppeteer](https://www.npmjs.com/jest-puppeteer)|N/A|07/11/23|Kelly Joseph Price |MIT|N/A|
-|[lodash.kebabcase](https://www.npmjs.com/lodash.kebabcase)|N/A|06/15/22|Kelly Joseph Price |MIT|N/A|
-|[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|N/A|05/26/23|Kelly Joseph Price |MIT|N/A|
-|[node-sass](https://www.npmjs.com/node-sass)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[process](https://www.npmjs.com/process)|N/A|06/25/21|dependabot[bot] |MIT|N/A|
-|[prop-types](https://www.npmjs.com/prop-types)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[regenerator-runtime](https://www.npmjs.com/regenerator-runtime)|N/A|07/11/23|Kelly Joseph Price |MIT|N/A|
-|[rehype-stringify](https://www.npmjs.com/rehype-stringify)|N/A|07/05/23|Kelly Joseph Price |N/A|N/A|
-|[remark-parse](https://www.npmjs.com/remark-parse)|N/A|07/19/23|Kelly Joseph Price |MIT|N/A|
-|[remark-rehype](https://www.npmjs.com/remark-rehype)|N/A|07/05/23|Kelly Joseph Price |N/A|N/A|
-|[remark-stringify](https://www.npmjs.com/remark-stringify)|N/A|07/05/23|Kelly Joseph Price |MIT|N/A|
-|[sass-loader](https://www.npmjs.com/sass-loader)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[semantic-release](https://www.npmjs.com/semantic-release)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[unified](https://www.npmjs.com/unified)|N/A|07/05/23|Kelly Joseph Price |MIT|N/A|
-|[unist-util-visit](https://www.npmjs.com/unist-util-visit)|N/A|12/20/22|Kelly Joseph Price |MIT|N/A|
-|[webpack-cli](https://www.npmjs.com/webpack-cli)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
-|[webpack-merge](https://www.npmjs.com/webpack-merge)|N/A|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[@babel/core](https://www.npmjs.com/@babel/core)|v7.19.3|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[@babel/plugin-proposal-class-properties](https://www.npmjs.com/@babel/plugin-proposal-class-properties)|v7.18.6|07/19/23|Kelly Joseph Price |MIT|N/A|
+|[@babel/plugin-proposal-object-rest-spread](https://www.npmjs.com/@babel/plugin-proposal-object-rest-spread)|v7.19.4|07/21/23|Kelly Joseph Price |MIT|N/A|
+|[@babel/plugin-proposal-optional-chaining](https://www.npmjs.com/@babel/plugin-proposal-optional-chaining)|v7.18.9|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[@babel/plugin-transform-runtime](https://www.npmjs.com/@babel/plugin-transform-runtime)|v7.19.1|07/11/23|Kelly Joseph Price |MIT|N/A|
+|[@babel/preset-env](https://www.npmjs.com/@babel/preset-env)|v7.19.4|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[@babel/preset-react](https://www.npmjs.com/@babel/preset-react)|v7.18.6|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[@commitlint/cli](https://www.npmjs.com/@commitlint/cli)|v17.1.2|06/30/23|Daniels L |MIT|N/A|
+|[@commitlint/config-angular](https://www.npmjs.com/@commitlint/config-angular)|v17.1.0|07/11/23|Kelly Joseph Price |MIT|N/A|
+|[@commitlint/config-conventional](https://www.npmjs.com/@commitlint/config-conventional)|v17.1.0|07/19/23|Kelly Joseph Price |MIT|N/A|
+|[@hot-loader/react-dom](https://www.npmjs.com/@hot-loader/react-dom)|v16.14.0|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[@semantic-release/changelog](https://www.npmjs.com/@semantic-release/changelog)|v6.0.1|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[@semantic-release/git](https://www.npmjs.com/@semantic-release/git)|v10.0.1|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v5.16.5|07/11/23|Kelly Joseph Price |MIT|N/A|
+|[@testing-library/react](https://www.npmjs.com/@testing-library/react)|v12.1.5|07/11/23|Kelly Joseph Price |MIT|N/A|
+|[babel-jest](https://www.npmjs.com/babel-jest)|v29.2.1|07/11/23|Kelly Joseph Price |MIT|N/A|
+|[babel-loader](https://www.npmjs.com/babel-loader)|v8.2.5|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[core-js](https://www.npmjs.com/core-js)|v3.25.5|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|05/16/22|Kelly Joseph Price |MIT|N/A|
+|[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|07/19/23|Kelly Joseph Price |MIT|N/A|
+|[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.2.1|07/11/23|Kelly Joseph Price |MIT|N/A|
+|[jest-puppeteer](https://www.npmjs.com/jest-puppeteer)|v6.1.1|07/11/23|Kelly Joseph Price |MIT|N/A|
+|[lodash.kebabcase](https://www.npmjs.com/lodash.kebabcase)|v4.1.1|06/15/22|Kelly Joseph Price |MIT|N/A|
+|[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v2.6.1|05/26/23|Kelly Joseph Price |MIT|N/A|
+|[node-sass](https://www.npmjs.com/node-sass)|v7.0.3|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[process](https://www.npmjs.com/process)|v0.11.10|06/25/21|dependabot[bot] |MIT|N/A|
+|[prop-types](https://www.npmjs.com/prop-types)|v15.8.1|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[regenerator-runtime](https://www.npmjs.com/regenerator-runtime)|v0.13.11|07/11/23|Kelly Joseph Price |MIT|N/A|
+|[rehype-stringify](https://www.npmjs.com/rehype-stringify)|v6.0.1|07/05/23|Kelly Joseph Price |N/A|N/A|
+|[remark-parse](https://www.npmjs.com/remark-parse)|v8.0.3|07/19/23|Kelly Joseph Price |MIT|N/A|
+|[remark-rehype](https://www.npmjs.com/remark-rehype)|v8.1.0|07/05/23|Kelly Joseph Price |N/A|N/A|
+|[remark-stringify](https://www.npmjs.com/remark-stringify)|v8.1.1|07/05/23|Kelly Joseph Price |MIT|N/A|
+|[sass-loader](https://www.npmjs.com/sass-loader)|v13.1.0|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v19.0.5|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[terser-webpack-plugin](https://www.npmjs.com/terser-webpack-plugin)|v5.3.6|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[unified](https://www.npmjs.com/unified)|v9.2.2|07/05/23|Kelly Joseph Price |MIT|N/A|
+|[unist-util-visit](https://www.npmjs.com/unist-util-visit)|v1.4.1|12/20/22|Kelly Joseph Price |MIT|N/A|
+|[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.10.0|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v4.11.1|10/19/22|Kelly Joseph Price |MIT|N/A|
+|[webpack-merge](https://www.npmjs.com/webpack-merge)|v5.8.0|10/19/22|Kelly Joseph Price |MIT|N/A|
 
 <br/>
 <div align='center'>
